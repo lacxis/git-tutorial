@@ -1,0 +1,4 @@
+aLinkcolord 
+wait
+call
+queryCommandEnabled
